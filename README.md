@@ -1,5 +1,7 @@
 # App Store Assets
 
+[![test](https://github.com/Riyad-Eita/app-store-assets/actions/workflows/test.yml/badge.svg)](https://github.com/Riyad-Eita/app-store-assets/actions/workflows/test.yml)
+
 An agent skill for App Store images and videos. It covers the app icon, screenshots, app previews, product page
 header and search results art, and In-App Event media. Apple's asset guidance is condensed into one checklist with
 every spec in one place, plus a validator that finds wrong sizes, alpha channels, bad video lengths, frame rates and
